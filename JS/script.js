@@ -18,4 +18,5 @@ function tableOfFive(value) {
     console.log(answer);
     return answer;
 }
+tableOfFive(5);
 // Please take note of the difference between log and return.
